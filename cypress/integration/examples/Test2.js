@@ -3,6 +3,8 @@
 it("testing new one", function (){
 
 
+cy.get('.brand').click()
+
 
 
 
